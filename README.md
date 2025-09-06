@@ -17,7 +17,7 @@
 - [**Three-Musketeers**](https://github.com/ThirteenIce2973/Three-Musketeers):  
   A simple, blog-style static E-Sports Team Website using HTML + CSS + JS to introduce yourself or your team. Representing our team online with style and spirit.
 
-- [**Personal Website**](https://thirteenice2973.github.io):  
+- [**Hexo Blog**](https://thirteenice2973.github.io):  
   My digital home on the web—drop by and say hi!
 
 ---
@@ -41,7 +41,7 @@
 ## 📫 Contact
 
 - **Email:** thirteenice2973@outlook.com
-- **Personal Website:** [thirteenice2973.github.io](https://thirteenice2973.github.io)
+- **My Personal Website:** [thirteenice2973.github.io](https://thirteenice2973.github.io)
 - **Our E-Sports Team:** [tmes.eu.org](https://tmes.eu.org)
 
 ---
