@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Student** passionate about **Web Development**, and studying **C++** and **python**.
+- 🎓 **High School Student** passionate about **Web Development**, and studying **C++** and **Python**.
 - 🌏 Always exploring new ideas and places, both online and offline
 - 🎸 Guitar player & experimenter—tech, music, and everything interesting!
 
@@ -53,8 +53,7 @@
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to connect, collaborate, or check out my projects.  
+Thanks for visiting my profile!  Feel free to connect, collaborate, or check out my projects.  
 Let's make something cool together! 🚀
 <!--
 **ThirteenIce2973/ThirteenIce2973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
